@@ -1,0 +1,6 @@
+Strategy,Cost,Effect,Incremental Cost,Incremental Effect,ICER
+High Risk and Unvax,"214.17 (214.17, 214.17)","0.009 (0.009, 0.009)",-,-,-
+Baseline,"278.47 (278.47, 278.47)","0.004 (0.004, 0.004)",-,-,Dominated
+High Risk,"296.54 (296.54, 296.54)","0.005 (0.005, 0.005)",-,-,Dominated
+High Risk and Low Risk Unvax,"369.79 (369.79, 369.79)","0.004 (0.004, 0.004)",-,-,Dominated
+Everyone,"594.53 (594.53, 594.53)","0.003 (0.003, 0.003)",-,-,Dominated
